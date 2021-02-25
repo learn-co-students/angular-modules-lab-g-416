@@ -1,2 +1,2 @@
 angular
-    .module('mainController', ['ngRoute']);
+    .module('app', ['ngRoute']);
